@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color:yellowgreen;
+    font-family: chiller;
+    font-size:60px;
+    font-weight:bold;
+    text-align:center;
+}
+
+input[type=number]{
+  padding: 13px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 25%;
+  background: #f1f1f1;
+  margin-left: 32%;
+}
+
+.button {
+  float: left;
+  width: 7%;
+  padding: 13px;
+  background:#f1f1f1;
+  color: black;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+p{
+    font-size:30px;
+    color:greenyellow;
+    text-align: center;
+    letter-spacing: 3px;
+}
